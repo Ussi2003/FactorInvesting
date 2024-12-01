@@ -1,0 +1,7 @@
+.env
+Article_Data
+Stock_History
+yfinance.cache
+test.ipynb
+alphatest.ipynb
+.vscode
