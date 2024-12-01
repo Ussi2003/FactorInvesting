@@ -31,13 +31,13 @@ Run data_download.py to get ticker data.
 Get alphas from PDF
 
 - Alex
-  - Get WSJ API working. Begin preprocessing data for sentiment analysis
   - 76-100 alphas
 - Thalia
   - Bloomberg access
   - 51-75 alphas
 - Wendy
   - 0-25 alphas
+  - Get WSJ API working. Begin preprocessing data for sentiment analysis
 - Peter
   - 26-50 alphas
 
