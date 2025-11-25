@@ -1,4 +1,4 @@
-# AlgoryFactorInvesting
+# FactorInvesting
 
 Factor investing model, testing 100 alphas and BERT sentiment analysis.
 
