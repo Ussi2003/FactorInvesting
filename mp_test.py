@@ -4,9 +4,6 @@ from multiprocessing import Pool
 import time
 import random
 from tqdm import tqdm
-
-# we can also look into this module: https://pypi.org/project/multiprocesspandas/
-
 ### Config ###
 num_rows = 10
 num_cols = 10
